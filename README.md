@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m @AyushFulara.
 - 👀 I’m interested in Coding & Tech.
-- 📓 I’m currently learning C language.
+- 📓 I’m currently learning Java and HTML language.
 - 🤝🏻 I’m looking to connect with experts and professionals.
 - 📫 You can reach me out on my LinkedIn Profile:- https://www.linkedin.com/in/ayush-fulara-29a6b6320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
